@@ -9,13 +9,13 @@ metadata:
 spec:
   selector:
     matchLabels:
-      app: ds-improtant
+      id: ds-improtant
       uuid: 18426a0b-5f59-4e10-923f-c0e078e82462
   template:
     metadata:
       creationTimestamp: null
       labels:
-        app: ds-improtant
+        id: ds-improtant
         uuid: 18426a0b-5f59-4e10-923f-c0e078e82462
     spec:
       containers:
